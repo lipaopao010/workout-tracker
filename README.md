@@ -11,4 +11,5 @@ This application is a work out tracker with Mongo database.
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
 ## Link of deployed application:
+https://fitness-tracker-0626.herokuapp.com/
 

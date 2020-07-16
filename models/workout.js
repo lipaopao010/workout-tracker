@@ -44,8 +44,6 @@ const WorkoutSchema = new Schema({
         trim: true,
         
       },
-
-      
     }]
   });
   
