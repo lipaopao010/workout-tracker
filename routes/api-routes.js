@@ -15,8 +15,9 @@ router.get("/api/workouts", (req, res) => {
         res.json(err);
       });
   });
-//add exercise to current workout
 
+
+//add exercise to current workout
 
 router.put('/api/workouts/:id',(req,res)=>{
   console.log("hello")
